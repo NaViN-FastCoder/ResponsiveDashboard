@@ -1,0 +1,14 @@
+.App-header{
+    display: flex;
+    align-content: space-between;
+    height:100%;
+    flex:1;
+}
+#root{
+    height:100%;
+}
+@media (max:470px) {
+    .App-header{
+        height:100%;
+    }
+}
